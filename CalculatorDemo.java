@@ -1,5 +1,11 @@
 package Project01;
 
+/**
+ * Driver class for the Calculator application.
+ *
+ * @author Mariafe Ponce
+ * @author Daniel DeFrance (Provided starter code)
+ */
 
 public class CalculatorDemo {
 
